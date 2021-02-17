@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyKe00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Video Games and coding in C# for Unity, always open to learn other languages to program some games!
+- 🌱 I’m currently learning Unity C#, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -9,5 +9,4 @@ AndyKe00/AndyKe00 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Lien github pages : https://github.com/AndyKe00/Exercice-1-Ke-Andy.git
 
